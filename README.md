@@ -2,6 +2,6 @@
 
 For RouterOS DNS
 
-DNS extracted from https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt
+DNS list extracted from https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt
 
 /ip dns static
